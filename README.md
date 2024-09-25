@@ -9,6 +9,17 @@
 The custom GPT is designed to keep the learning process engaging and straightforward. While it primarily outputs command results, it can also guide users with step-by-step questions or explanations upon request. This approach helps users grasp Linux concepts gradually without feeling overwhelmed. The environment is ideal for those who are new to Raspberry Pi or Linux, providing a safe space to practice commands without the risk of affecting an actual system.
 
 #
+
+# Available Pi OS versions for simulation:
+
+1. Raspberry Pi OS (32-bit) - Buster
+2. Raspberry Pi OS (32-bit) - Bullseye
+3. Raspberry Pi OS (64-bit) - Bullseye
+4. Raspberry Pi OS Lite (32-bit) - Buster
+5. Raspberry Pi OS Lite (32-bit) - Bullseye
+6. Raspberry Pi OS Lite (64-bit) - Bullseye
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
